@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://jozoooooo.vercel.app/api?username=Jozoooooo&hide=stars&hide_rank=true&show_icons=true&hide_border=true&theme=dark&locale=cn&card_width=360">
-    <source media="(prefers-color-scheme: light)" srcset="https://jozoooooo.vercel.app/api?username=Jozoooooo&hide=stars&hide_rank=true&show_icons=true&hide_border=true&locale=cn&card_width=360">
-    <img height=180 src="https://jozoooooo.vercel.app/api?username=Jozoooooo&hide=stars&hide_rank=true&show_icons=true&hide_border=true&locale=cn&card_width=360">
+    <source media="(prefers-color-scheme: dark)" srcset="https://jozoooooo.vercel.app/api?username=Jozoooooo&include_all_commits=true&hide=stars&hide_rank=true&show_icons=true&hide_border=true&theme=dark&locale=cn&card_width=360">
+    <source media="(prefers-color-scheme: light)" srcset="https://jozoooooo.vercel.app/api?username=Jozoooooo&include_all_commits=true&hide=stars&hide_rank=true&show_icons=true&hide_border=true&locale=cn&card_width=360">
+    <img height=180 src="https://jozoooooo.vercel.app/api?username=Jozoooooo&include_all_commits=true&hide=stars&hide_rank=true&show_icons=true&hide_border=true&locale=cn&card_width=360">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://jozoooooo.vercel.app/api/top-langs?username=Jozoooooo&hide=C%2CObjective-C&layout=compact&hide_border=true&theme=dark&locale=cn&card_width=360">
